@@ -13,7 +13,7 @@ The goal of this project is to forecast monthly sales using historical transacti
   - **Overview Dashboard** – Key KPIs and forecast trend
   - **Customer Analysis** – Sales and profit by customer
   - **Region & Time Analysis** – Sales by region and date
-  - **Forecast Analysis** - Predciting Future Sales Trend
+  - **Forecast Analysis** - Predicting Future Sales Trend
 - 📤 Exported ML predictions for seamless Power BI integration
 - 🧹 Data preprocessing, feature engineering, and model evaluation
 
