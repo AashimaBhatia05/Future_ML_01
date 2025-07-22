@@ -39,6 +39,9 @@ Grateful for the opportunity !
 ## 📬 Contact
 
 Aashima Bhatia
+
 Email : aashimabhatia2005@gmail.com
+
 LinkedIn : https://www.linkedin.com/in/aashima-bhatia-a30919300/
+
 GitHub : https://github.com/AashimaBhatia05
